@@ -1,2 +1,2 @@
 # JS120
-JS120 programs
+Object Oriented programs
